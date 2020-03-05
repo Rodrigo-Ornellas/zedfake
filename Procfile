@@ -1,0 +1,1 @@
+web: gunicorn zedtst.wsgi --log-file -
